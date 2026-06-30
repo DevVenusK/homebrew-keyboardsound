@@ -1,6 +1,6 @@
 cask "keyboardsound" do
-  version "1.1"
-  sha256 "417cb11580332519a01332ff444d4590791d4a396f36991d2a5ad524605e6b0e"
+  version "1.2"
+  sha256 "744490398588ae57ba109b4361f065c3eae6b34e6c20e312e21fdd61731ef3ef"
 
   url "https://github.com/DevVenusK/KeyboardSound/releases/download/v#{version}/KeyboardSound.zip"
   name "KeyboardSound"
